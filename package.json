@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "firebase-admin": "^14.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}

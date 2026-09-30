@@ -1,0 +1,6 @@
+{
+  "name": "OneCampus AI",
+  "description": "Centralized, AI-powered personalized college announcements and deadline management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
